@@ -1,6 +1,7 @@
 import pygame
 import random
 
+print('Hello World')
 
 pygame.init()
 x_limit = 1200
